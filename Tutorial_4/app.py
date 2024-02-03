@@ -22,7 +22,7 @@ def post_form(request: Request, symbol: str = Form(...)):
     """
     INSTANTIATE THIS VARIABLE WITH YOUR API KEY
     """
-    api_key = ""
+    api_key = "3f05921da6765c2cebe9b7ea081c99e1"
 
 
     # create url link
